@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Reminders/static/css/main.9f1c676f.chunk.css",
+    "main.js": "/Reminders/static/js/main.8495671e.chunk.js",
+    "main.js.map": "/Reminders/static/js/main.8495671e.chunk.js.map",
+    "runtime-main.js": "/Reminders/static/js/runtime-main.b6315db7.js",
+    "runtime-main.js.map": "/Reminders/static/js/runtime-main.b6315db7.js.map",
+    "static/css/2.d22f252f.chunk.css": "/Reminders/static/css/2.d22f252f.chunk.css",
+    "static/js/2.651886f5.chunk.js": "/Reminders/static/js/2.651886f5.chunk.js",
+    "static/js/2.651886f5.chunk.js.map": "/Reminders/static/js/2.651886f5.chunk.js.map",
+    "index.html": "/Reminders/index.html",
+    "static/css/2.d22f252f.chunk.css.map": "/Reminders/static/css/2.d22f252f.chunk.css.map",
+    "static/css/main.9f1c676f.chunk.css.map": "/Reminders/static/css/main.9f1c676f.chunk.css.map",
+    "static/js/2.651886f5.chunk.js.LICENSE.txt": "/Reminders/static/js/2.651886f5.chunk.js.LICENSE.txt",
+    "static/media/clock.f95dda2d.png": "/Reminders/static/media/clock.f95dda2d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b6315db7.js",
+    "static/css/2.d22f252f.chunk.css",
+    "static/js/2.651886f5.chunk.js",
+    "static/css/main.9f1c676f.chunk.css",
+    "static/js/main.8495671e.chunk.js"
+  ]
+}
